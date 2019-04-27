@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project_02.Plugins", "New Unity Project_02.Plugins.csproj", "{FD828C23-BDE4-9D52-DC1A-FEA2A038EADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project_02", "New Unity Project_02.csproj", "{067991F7-DC88-48F9-14D5-066A03DD5003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project_02.Editor", "New Unity Project_02.Editor.csproj", "{FE36BAAB-335A-669E-4540-6B94564BB0A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD828C23-BDE4-9D52-DC1A-FEA2A038EADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD828C23-BDE4-9D52-DC1A-FEA2A038EADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD828C23-BDE4-9D52-DC1A-FEA2A038EADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD828C23-BDE4-9D52-DC1A-FEA2A038EADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067991F7-DC88-48F9-14D5-066A03DD5003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067991F7-DC88-48F9-14D5-066A03DD5003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067991F7-DC88-48F9-14D5-066A03DD5003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067991F7-DC88-48F9-14D5-066A03DD5003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE36BAAB-335A-669E-4540-6B94564BB0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE36BAAB-335A-669E-4540-6B94564BB0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE36BAAB-335A-669E-4540-6B94564BB0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE36BAAB-335A-669E-4540-6B94564BB0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
